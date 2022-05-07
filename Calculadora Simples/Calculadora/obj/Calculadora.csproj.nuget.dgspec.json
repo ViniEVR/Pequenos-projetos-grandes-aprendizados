@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius.eduardo\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\vinim\\OneDrive\\Área de Trabalho\\Repositóios GIT\\Pequenos-projetos-grandes-aprendizados\\Calculadora Simples\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius.eduardo\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\vinim\\OneDrive\\Área de Trabalho\\Repositóios GIT\\Pequenos-projetos-grandes-aprendizados\\Calculadora Simples\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius.eduardo\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\vinim\\OneDrive\\Área de Trabalho\\Repositóios GIT\\Pequenos-projetos-grandes-aprendizados\\Calculadora Simples\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\vinicius.eduardo\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj",
-        "packagesPath": "C:\\Users\\vinicius.eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius.eduardo\\source\\repos\\Calculadora\\Calculadora\\obj\\",
+        "projectPath": "C:\\Users\\vinim\\OneDrive\\Área de Trabalho\\Repositóios GIT\\Pequenos-projetos-grandes-aprendizados\\Calculadora Simples\\Calculadora\\Calculadora.csproj",
+        "packagesPath": "C:\\Users\\vinim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinim\\OneDrive\\Área de Trabalho\\Repositóios GIT\\Pequenos-projetos-grandes-aprendizados\\Calculadora Simples\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vinicius.eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vinim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
